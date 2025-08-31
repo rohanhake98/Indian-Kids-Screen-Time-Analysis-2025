@@ -24,3 +24,18 @@ build/
 .vscode/
 *.swp
 *.swo
+
+# Large data files
+# Keep processed_data.csv for Vercel deployment
+Indian_Kids_Screen_Time.csv
+
+# Large image files (if needed, uncomment specific ones)
+# *.png
+# Keeping all visualization images for Vercel deployment
+
+# Logs
+*.log
+
+# Local development settings
+.DS_Store
+Thumbs.db
