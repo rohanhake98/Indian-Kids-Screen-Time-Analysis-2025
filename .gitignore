@@ -48,9 +48,25 @@ wheels/
 # Keep processed_data.csv for Vercel deployment
 Indian_Kids_Screen_Time.csv
 
-# Large image files (if needed, uncomment specific ones)
+# Large image files
+# Uncomment to exclude all PNGs if needed
 # *.png
-# Keeping all visualization images for Vercel deployment
+
+# Specific large files that can be regenerated
+# Uncomment specific files if they're too large
+# device_preference.png
+# device_urban_rural.png
+# edu_rec_ratio_by_age.png
+# edu_rec_time.png
+# elbow_curve.png
+# feature_importance.png
+# risk_by_age.png
+# screen_time_by_age_gender.png
+# screen_time_distribution.png
+# screen_time_health.png
+# screen_time_trend.png
+# urban_rural_comparison.png
+# user_segments.png
 
 # Logs
 *.log
