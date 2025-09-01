@@ -23,16 +23,18 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main-header {
-        font-size: 2.5rem;
+        font-size: 60px;
         color: #6a11cb;
         font-weight: 700;
         margin-bottom: 0.5rem;
+        text-align: center;
     }
     .sub-header {
-        font-size: 1.5rem;
+        font-size: 36px;
         color: #2575fc;
         font-weight: 500;
         margin-bottom: 1.5rem;
+        text-align: center;
     }
     .stat-card {
         padding: 1.5rem;

@@ -704,4 +704,4 @@ def render_tab_content(active_tab):
 # Run the app
 if __name__ == '__main__':
     print("Starting dashboard server...")
-    app.run_server(debug=True)
+    app.run(debug=True)
