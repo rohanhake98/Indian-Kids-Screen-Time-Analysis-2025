@@ -2,7 +2,7 @@
 
 This project analyzes the "Indian Kids Screentime 2025 Dataset" to understand screen time patterns, health impacts, and risk factors among Indian children. The analysis includes various aspects such as screen time patterns, correlation with health outcomes, urban vs. rural disparities, educational vs. recreational screen time classification, time series analysis, clustering for user segmentation, and predictive modeling for identifying at-risk children.
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces)
+live Preview : https://rohanhake98-indian-kids-screen-time-analys-streamlit-app-2ozekl.streamlit.app/
 
 ## Technologies Used
 
